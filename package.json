@@ -36,6 +36,9 @@
     "es6-promise": "^3.0.2",
     "firebase": "^2.3.1",
     "vue": "^1.0.8",
-    "vue-router": "^0.7.5"
+    "vue-router": "^0.7.5",
+    "semantic-ui": "^2.1.8",
+    "semantic-ui-form": "^2.1.7",
+    "jquery": "^2.2.0"
   }
 }
