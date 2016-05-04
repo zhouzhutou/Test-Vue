@@ -100,8 +100,8 @@
       <file leaf-file-name="Nav.vue" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/common/Nav.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
-              <caret line="33" column="5" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
+            <state relative-caret-position="510">
+              <caret line="34" column="9" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -700,12 +700,12 @@
       <workItem from="1461849465514" duration="6429000" />
       <workItem from="1461905153258" duration="20544000" />
       <workItem from="1462289683174" duration="2514000" />
-      <workItem from="1462349834022" duration="2934000" />
+      <workItem from="1462349834022" duration="4360000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="144356000" />
+    <option name="totallyTimeSpent" value="145782000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1280" y="-4" width="1440" height="904" extended-state="6" />
@@ -1111,8 +1111,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/common/Nav.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="33" column="5" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
+        <state relative-caret-position="510">
+          <caret line="34" column="9" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
           <folding />
         </state>
       </provider>
